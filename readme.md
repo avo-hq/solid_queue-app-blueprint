@@ -1,4 +1,6 @@
-# Avo 3 Solid Queue template
+# Avo 3 Solid Queue blueprint
+
+See more at: [avohq.io/blueprints](https://avohq.io/blueprints)
 
 ## How to
 
