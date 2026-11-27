@@ -11,6 +11,6 @@ class Avo::Cards::JobsCount < Avo::Cards::MetricCard
       query = query.finished.invert_where
     end
 
-    result query.length
+    result query.count
   end
 end
